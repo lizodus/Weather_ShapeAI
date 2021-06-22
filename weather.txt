@@ -1,0 +1,7 @@
+-----------------------------------------------------------------------
+Weather Stats for - LAGOS   ||  22 Jun 2021 | 03:55:27 pm
+-----------------------------------------------------------------------
+current temperature is: 31.18 deg C
+current weather desc  : light rain
+current humidity      : 75 %
+current wind speed    : 2.2 kmph
